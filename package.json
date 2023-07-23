@@ -1,0 +1,17 @@
+{
+  "name": "test-realworld-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "dotenv-cli": "^7.2.1"
+  }
+}
